@@ -10,12 +10,6 @@
 
 ##使用方法 
 
-描述如何安裝和配置你的專案。例如：
+需要先安裝 Python & Dcbot
 
 ##貢獻
-
-
-```bash
-git clone https://github.com/你的用戶名/你的倉庫名.git
-cd 你的倉庫名
-pip install -r requirements.txt
