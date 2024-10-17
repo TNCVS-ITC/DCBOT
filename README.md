@@ -10,13 +10,13 @@
 
 ## 使用方法
 
-1. 需要先安裝 Python 和 Dcbot。
+### 1. 需要先安裝 Python 和 Dcbot。
 
-### 安裝 Python
+#### 安裝 Python
 
 請訪問 [Python 官方網站](https://www.python.org/)下載並安裝適合你操作系統的版本。
 
-### 安裝 Dcbot
+#### 安裝 Dcbot
 
 你可以使用以下命令來安裝 Dcbot：
 
@@ -24,8 +24,8 @@
 pip install dcbot
 ```
 
-2. 把社團成員名單匯入 **students.csv** 檔案中 
-3. 啟動你的Bot並開始享受披薩吧
+### 2. 把社團成員名單匯入 **students.csv** 檔案中 
+### 3. 啟動你的Bot並開始享受披薩吧
 
 ## 貢獻
 
