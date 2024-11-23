@@ -12,7 +12,7 @@
 
 ## 檔案介紹:
     檔案架構請依照下方縮排去放置，勿隨意更改檔案位置。
-
+```
 - 資料夾
         - main.py 主程式，用來啟動機器人。
         - log.py 紀錄執行過的指令。
@@ -32,7 +32,7 @@
             - role_command.py 是領身分組的
             - message_responses.py 是回應訊息的
             - announce.py 是公告的
-
+```
 ## 使用方法
 
 ### 1. 需要先安裝 Python 和 Dcbot。
